@@ -6,7 +6,8 @@ This project was built by me using HTML, CSS and JS. It will be added to my port
 [Live Repl Deployment](https://weather-app-api.ray-xavier-2021.repl.co/)
 
 
-![Fighting Game](../../../../../Pictures/Screenshots/fight-game.png)
+![Fight-Game](https://user-images.githubusercontent.com/78431899/189531565-9402b604-bf5a-41a3-a632-024428c01e43.png)
+
 
 ## Technologies Used
 * HTML
