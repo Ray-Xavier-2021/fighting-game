@@ -6,8 +6,8 @@ This project was built by me using HTML, CSS and JS. It will be added to my port
 [Live Repl Deployment](https://weather-app-api.ray-xavier-2021.repl.co/)
 
 
-![Fight-Game](https://user-images.githubusercontent.com/78431899/189531565-9402b604-bf5a-41a3-a632-024428c01e43.png)
 
+![fight-game](https://user-images.githubusercontent.com/78431899/189531664-50dc4f98-149e-4c86-b731-d4d67d51c643.png)
 
 ## Technologies Used
 * HTML
@@ -25,6 +25,7 @@ No login required.
 Player 1 -
     Q: Attack
     A: Heal
+    
 Player 2 -
     P: Attack
     L: Heal
