@@ -1,9 +1,9 @@
 # Fighting Game
 
 
-This project was built by me using HTML, CSS and JS. It will be added to my portfolio showcase as one of my projects.
+This project was built by me using HTML, CSS and JS. It was built to practice API fetch.
 
-[Live Repl Deployment](https://weather-app-api.ray-xavier-2021.repl.co/)
+[Live Repl Deployment](https://fight-game.ray-xavier-2021.repl.co/)
 
 
 
@@ -14,6 +14,7 @@ This project was built by me using HTML, CSS and JS. It will be added to my port
 * CSS
 * Bootstrap
 * JS
+* API
 
 ## Installation
 No need to install any software, just open up index.html and run it
